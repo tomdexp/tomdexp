@@ -2,7 +2,7 @@
 
 Hello! I'm a passionate Game Developer with a love for creating multiplayer experiences.
 <br><br>🎮 I’m currently working on a vertical slice of an Unreal Engine 5 Multiplayer game
-<br><br>🌐 I make multiplayer games with Unity (NGO, Fishnet, Photon Fusion) and Unreal (GAS)
+<br><br>🌐 I make multiplayer games with Unity (NGO, Fishnet, Photon Fusion) and Unreal (Gameplay Ability System)
 <br><br>🛠 I know how to leverage services like the Unity Gaming Services or the Epic Online Services for Lobbies, Cloud Save, Leaderboards, Voice chat and more
 
 # 💻 Tech Stack:
