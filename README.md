@@ -8,7 +8,7 @@
 
 #### 🛠 I know how to leverage services like the Unity Gaming Services or the Epic Online Services for Lobbies, Cloud Save, Leaderboards, Voice chat and more
 
-# My last projects
+# 🕹 My last projects
 #### [Mimic Hunt : an Unreal Engine 5 multiplayer game with C++](https://github.com/tomdexp/MimicHuntPublic)
 #### [Disco Gecko : an Unity multiplayer game with C#](https://github.com/tomdexp/SilentNightFeverPublic)
 
