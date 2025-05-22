@@ -2,9 +2,9 @@
 
 #### Hello! I'm a passionate Gameplay Programmer with a love for creating multiplayer experiences.
 
-#### 🎮 I’m currently working on a vertical slice of an Unreal Engine 5 Multiplayer game : Mimic Hunt
+#### 🎮 I’m currently working as a Gameplay Programmer assistant at Ubisoft Ivory Tower on The Crew Motorfest
 
-#### 🌐 I make multiplayer games with Unity (NGO, Fishnet, Photon Fusion) and Unreal (Gameplay Ability System)
+#### 🌐 I make multiplayer games with Unity (NGO, Fishnet, Photon Fusion/Quantum) and Unreal (Gameplay Ability System)
 
 #### 🛠 I know how to leverage services like the Unity Gaming Services or the Epic Online Services for Lobbies, Cloud Save, Leaderboards, Voice chat and more
 
