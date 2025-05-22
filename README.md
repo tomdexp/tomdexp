@@ -2,7 +2,7 @@
 
 #### Hello! I'm a passionate Gameplay Programmer with a love for creating multiplayer experiences.
 
-#### 🎮 I’m currently working as a Gameplay Programmer assistant at Ubisoft Ivory Tower on The Crew Motorfest
+#### 🎮 I’m currently working as a Gameplay Programmer Assistant at Ubisoft Ivory Tower on The Crew Motorfest
 
 #### 🌐 I make multiplayer games with Unity (NGO, Fishnet, Photon Fusion/Quantum) and Unreal (Gameplay Ability System)
 
